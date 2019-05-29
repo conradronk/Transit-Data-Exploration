@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
-title: title
-description: description text
+title: Conrad Ronk
+description: Portfolio Site
+show_downloads: False
+navigation:
+  - title: Home
+    url: /
+  - title: Transit Exploration
+    url: /Transit-Exploration-Project/index.md
