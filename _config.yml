@@ -4,6 +4,6 @@ description: Portfolio Site
 show_downloads: False
 navigation:
   - title: Home
-    url: /
+    url: conradronk.github.io/
   - title: Transit Exploration
     url: /Transit-Data-Exploration/
